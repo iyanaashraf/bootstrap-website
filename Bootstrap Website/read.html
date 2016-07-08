@@ -7,7 +7,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
-<title>Bootstrap 101 Template</title>
+<title>Article 1</title>
 
 <link href="css/bootstrap.min.css" rel="stylesheet">
 <link href = "css/styles.css" rel = "stylesheet">
@@ -31,8 +31,24 @@
 		<div class="collapse navbar-collapse navHeaderCollapse">
 
 			<ul class="nav navbar-nav navbar-right">
-				<li class="active"><a href="#">Home</a></li>
-				<li><a href="#">Blog</a></li>
+				<li><a href="index.html">Home</a></li>
+					
+				<!-- Start of Dropdown for Articles -->
+				<li class="dropdown">
+
+					<a href="#" class="dropdown-toggle" data-toggle="dropdown">Brands <b class="caret"></b></a>
+
+					<ul class="dropdown-menu">
+						<li><a href="read.html">Article 1</a></li>
+						<li><a href="read-two.html">Article 2</a></li>
+						<li><a href="#">Article 3</a></li>
+						<li><a href="#">Article 4</a></li>
+					</ul>
+
+				</li>
+				<!-- End of Dropdown for Articles -->
+
+				<!-- Start of Dropdown for Social Media -->
 				<li class="dropdown">
 
 					<a href="#" class="dropdown-toggle" data-toggle="dropdown">Social Media <b class="caret"></b></a>
@@ -44,6 +60,8 @@
 						<li><a href="#">Instagram</a></li>
 					</ul>
 				</li>
+				<!-- End of Dropdown for Social Media -->
+
 				<li><a href="#">About</a></li>
 				<li><a href="#contact" data-toggle="modal">Contact</a></li>
 			</ul>
@@ -80,12 +98,12 @@
 
 		<div class="col-lg-3">
 			<div class="list-group">
-				<a href="#" class="list-group-item active">
+				<a href="read.html" class="list-group-item active">
 					<h4 class="list-group-item-heading">Lorem Ipsom</h4>
 					<p class="list-group-item-text"> Aliquam erat volutpat. Suspendisse tempus felis laoreet erat gravida, in luctus sapien aliquet. Pellentesque at velit ac lorem ullamcorper euismod. Aenean efficitur gravida libero, nec faucibus augue convallis ac. Pellentesque venenatis nibh.</p>
 				</a>
 
-				<a href="#" class="list-group-item">
+				<a href="read-two.html" class="list-group-item">
 					<h4 class="list-group-item-heading">Lorem Ipsom</h4>
 					<p class="list-group-item-text"> Aliquam erat volutpat. Suspendisse tempus felis laoreet erat gravida, in luctus sapien aliquet. Pellentesque at velit ac lorem ullamcorper euismod. Aenean efficitur gravida libero, nec faucibus augue convallis ac. Pellentesque venenatis nibh.</p>
 				</a>

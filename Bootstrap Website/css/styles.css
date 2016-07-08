@@ -1,5 +1,6 @@
 body {
 	margin-bottom: 80px;
+	background-color: #D3D3D3;
 }
 
 .page-header {
@@ -13,5 +14,9 @@ body {
 
 .featureImg {
 	margin-bottom: 15px;
+}
+
+.jumbotron {
+	/*background-color: yellow;*/
 }
 
