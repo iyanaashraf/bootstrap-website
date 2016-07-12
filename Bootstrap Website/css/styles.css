@@ -16,7 +16,14 @@ body {
 	margin-bottom: 15px;
 }
 
-.jumbotron {
-	/*background-color: yellow;*/
+.starTrekWords{
+	color: #FFFF00;
+	font-family: "Courier New", Courier, monospace;
+
+}
+
+.navbar-brand {
+	font-family: Arial Black, Arial Black, Gadget, sans-serif;
+	font-size: 50px;
 }
 
