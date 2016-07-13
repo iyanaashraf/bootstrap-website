@@ -1,13 +1,17 @@
 body {
-	background-color: #FFD700;
+	background-color: #1E90FF;
 	margin-bottom: 80px;
 }
 
 .navbar-brand {
-	font-family: Arial Black, Arial Black, Gadget, sans-serif;
+	font-family: Gill Sans / Gill Sans MT, sans-serif;
 	font-size: 50px;
 }
 
 .list-group {
 	font-family: Arial, Helvetica, sans-serif;
+}
+
+.page-header {
+	font-family: Century Gothic, sans-serif;
 }

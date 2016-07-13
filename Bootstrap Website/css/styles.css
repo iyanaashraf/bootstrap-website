@@ -1,6 +1,6 @@
 body {
 	margin-bottom: 80px;
-	background-color: #D3D3D3;
+	background-color: #FDF5E6;
 }
 
 .page-header {
@@ -12,9 +12,6 @@ body {
 	padding-top: 0;
 }
 
-.featureImg {
-	margin-bottom: 15px;
-}
 
 .starTrekWords{
 	color: #FFFF00;
@@ -23,7 +20,8 @@ body {
 }
 
 .navbar-brand {
-	font-family: Arial Black, Arial Black, Gadget, sans-serif;
+	font-family: Gill Sans / Gill Sans MT, sans-serif;
 	font-size: 50px;
+	
 }
 

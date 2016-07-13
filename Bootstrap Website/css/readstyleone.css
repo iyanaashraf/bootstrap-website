@@ -1,9 +1,21 @@
 body {
-	background-color: #FFD700;
+	background-color: #9932CC;
 	margin-bottom: 80px;
 }
 
 .navbar-brand {
-	font-family: Arial Black, Arial Black, Gadget, sans-serif;
+	font-family: Gill Sans / Gill Sans MT, sans-serif;
 	font-size: 50px;
 }
+
+.featureImg {
+	margin-bottom: 30px;
+	margin-top: 15px;
+}
+
+.page-header {
+	font-family: Tahoma, Geneva, sans-serif;
+
+
+}
+

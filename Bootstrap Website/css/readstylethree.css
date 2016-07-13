@@ -1,12 +1,12 @@
 /* MUST STAY THE SAME FOR EACH CSS FILE except for background color */
 
 body {
-	background-color: #FFFF00;
+	background-color: #FFD700;
 	margin-bottom: 80px;
 }
 
 .navbar-brand {
-	font-family: Arial Black, Arial Black, Gadget, sans-serif;
+	font-family: Gill Sans / Gill Sans MT, sans-serif;
 	font-size: 50px;
 }
 
@@ -18,5 +18,9 @@ body {
 /* FROM HERE DOWN, EVERYTHING CAN BE DIFFERENT */
 
 .page-header {
-	font-family: Tahoma, Geneva, sans-serif;
+	font-family: ‘Arial Narrow’, sans-serif;;
+}
+
+h3 {
+	color: #B8860B;
 }
