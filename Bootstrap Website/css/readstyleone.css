@@ -1,0 +1,9 @@
+body {
+	background-color: #FFD700;
+	margin-bottom: 80px;
+}
+
+.navbar-brand {
+	font-family: Arial Black, Arial Black, Gadget, sans-serif;
+	font-size: 50px;
+}

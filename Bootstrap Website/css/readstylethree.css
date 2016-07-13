@@ -1,0 +1,22 @@
+/* MUST STAY THE SAME FOR EACH CSS FILE except for background color */
+
+body {
+	background-color: #FFFF00;
+	margin-bottom: 80px;
+}
+
+.navbar-brand {
+	font-family: Arial Black, Arial Black, Gadget, sans-serif;
+	font-size: 50px;
+}
+
+.list-group {
+	font-family: Trebuchet MS1, Helvetica, sans-serif;
+}
+
+
+/* FROM HERE DOWN, EVERYTHING CAN BE DIFFERENT */
+
+.page-header {
+	font-family: Tahoma, Geneva, sans-serif;
+}
